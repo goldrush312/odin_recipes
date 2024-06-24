@@ -1,2 +1,2 @@
 # odin_recipes
-ill do this later
+The current project (as of Jun 22 2024) is to create a recipes page containing links to three recipes. By the end of this I should have demonstrated that I can create html files containing a boilerplate with headings, images, links and all that.
