@@ -1,0 +1,17 @@
+/* recipes.css*/
+* {
+    text-align: center;
+}
+.titles {
+   text-decoration-color: aquamarine; 
+   -webkit-text-stroke-color: aquamarine;
+    -webkit-text-stroke-width: 1px;
+    font-size: 100px;
+    text-shadow: 2px 0px #c0a7fa 
+    
+}
+a {
+    text-decoration-color: rgb(68,178,184);
+    color: rgb(68,178,184);
+    font-size: 20px;
+}
